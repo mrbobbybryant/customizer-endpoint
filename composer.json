@@ -1,0 +1,20 @@
+{
+    "name": "developwithwp/customizer-endpoints",
+    "description": "A WordPress Library which makes querying Customizer Settings Public.",
+    "type": "package",
+    "keywords": [],
+    "homepage": "https://github.com/mrbobbybryant/customizer-endpoint",
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "repositories" : [
+      {
+        "type" : "composer",
+        "url"  : "https://wpackagist.org"
+      }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+      "files": [ "customizer-endpoint.php" ]
+    }
+  }
