@@ -1,5 +1,5 @@
 {
-    "name": "developwithwp/customizer-endpoints",
+    "name": "developwithwp/customizer-endpoint",
     "description": "A WordPress Library which makes querying Customizer Settings Public.",
     "type": "package",
     "keywords": [],
